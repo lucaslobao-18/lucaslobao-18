@@ -2,7 +2,7 @@
 
 - 💻 Formado em ADS
 - 👀 Cursando Engenharia de Software
-- 📚 Buscando me tornar um ótimo profissional
+- 📚 Em busca do progresso!
 
 <div align="center">
   <a href="https://github.com/lucaslobao-18">
